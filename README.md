@@ -1,4 +1,4 @@
-# personal ASE
+# Customized ASE for personal calculation
 
 #### platform                 Linux-3.10.0-1160.45.1.el7.x86_64-x86_64-with-glibc2.17
 #### python-3.8.10            /home/energy/changai/test/clease/clease-slab/bin/python
