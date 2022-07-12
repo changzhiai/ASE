@@ -12,4 +12,4 @@
 #### psycopg2                 not installed
 #### pyamg                    not installed
 
-Original code from https://gitlab.com/ase/ase
+Original code from https://wiki.fysik.dtu.dk/ase/about.html
